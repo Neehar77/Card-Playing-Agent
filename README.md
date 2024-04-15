@@ -9,4 +9,3 @@ The Spades card playing agent is designed to simulate the behavior of a human pl
 Expert Systems: Utilizes expert systems to evaluate the current game state and select the best card to play. </br>
 Intelligent Decision Making: Employs various strategies to maximize the agent's chances of winning each round, including tracking played cards, assessing the strength of the hand, and predicting opponents' moves.</br>
 Game Simulation: Simulates gameplay against three other players, allowing for testing and evaluation of the agent's performance.</br>
-User Interface: Provides a simple user interface for interacting with the agent, including displaying game state and receiving player input.
